@@ -1,0 +1,18 @@
+// A one-point technology keeps the recipe purchasable for existing characters.
+{
+  "DT_TechnologyRecipeUnlock": {
+    "CraftableAncientParts": {
+      "Name": "NAME_RECIPE_CraftableAncientParts",
+      "Description": "DESC_RECIPE_CraftableAncientParts",
+      "IconName": "PalCrystal_Ex",
+      "RequireTechnology": "None",
+      "RequireResearchId": "None",
+      "IsBossTechnology": false,
+      "LevelCap": 19,
+      "Tier": 0,
+      "Cost": 1,
+      "UnlockItemRecipes": ["PalCrystal_Ex"],
+      "UnlockBuildObjects": []
+    }
+  }
+}

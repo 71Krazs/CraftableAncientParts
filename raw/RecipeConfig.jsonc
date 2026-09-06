@@ -1,0 +1,25 @@
+// Craftable Ancient Civilization Parts.
+// One part costs 20 Paldium Fragments and 2 Refined Ingots.
+{
+  "DT_ItemRecipeDataTable": {
+    "PalCrystal_Ex": {
+      "Product_Id": "PalCrystal_Ex",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Pal_crystal_S",
+      "Material1_Count": 20,
+      "Material2_Id": "IronIngot",
+      "Material2_Count": 2,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0
+    }
+  }
+}
