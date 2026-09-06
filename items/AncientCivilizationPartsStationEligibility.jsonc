@@ -1,0 +1,10 @@
+// Make Ancient Civilization Parts eligible for the advanced crafting-station
+// recipe lists. Rank 4 is the current craft-station ceiling used by items such
+// as Circuit Boards / Ancient Civilization Cores; MaterialProccessing is the
+// engine's (misspelled) processing-material category.
+{
+  "PalCrystal_Ex": {
+    "Rank": 4,
+    "TypeB": "EPalItemTypeB::MaterialProccessing"
+  }
+}
