@@ -1,0 +1,8 @@
+{
+  "DT_TechnologyNameText": {
+    "NAME_RECIPE_CraftableAncientParts": "<itemName id=|PalCrystal_Ex|/>"
+  },
+  "DT_TechnologyDescriptionText": {
+    "DESC_RECIPE_CraftableAncientParts": "Unlock the recipe for <itemName id=|PalCrystal_Ex|/>."
+  }
+}
